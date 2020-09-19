@@ -1,0 +1,52 @@
+[
+    {
+        "Cidade": "Salvador",
+        "Estado": "Bahia",
+        "Ponto turístico": "Pelourinho"
+    },
+    {
+        "Cidade": "Fortaleza",
+        "Estado": "Ceará",
+        "Ponto turístico": "Praia do Futuro"
+    },
+    {
+        "Cidade": "Lençóis Maranhenses",
+        "Estado": "Maranhão",
+        "Ponto turístico": "Parque Nacional dos Lençóis Maranhenses"
+    },
+    {
+        "Cidade": "Natal",
+        "Estado": "Rio Grande do Norte",
+        "Ponto turístico": "Praia do amor"
+    },
+    {
+        "Cidade": "João Pessoa",
+        "Estado": "Paraíba",
+        "Ponto turístico": "Farol do Cabo Branco"
+    },
+    {
+        "Cidade": "Recife",
+        "Estado": "Pernambuco",
+        "Ponto turístico": "Recife Antigo"
+    },
+    {
+        "Cidade": "Maceió",
+        "Estado": "Alagoas",
+        "Ponto turístico": "Praia do Francês"
+    },
+    {
+        "Cidade": "Olinda",
+        "Estado": "Pernambuco",
+        "Ponto turístico": "Alto da Sé"
+    },
+    {
+        "Cidade": "Aracaju",
+        "Estado": "Sergipe",
+        "Ponto turístico": "Passarela do Caranguejo"
+    },
+    {
+        "Cidade": "Porto de Galinhas",
+        "Estado": "Pernambuco",
+        "Ponto turístico": "Piscinas Naturais"
+    }
+]

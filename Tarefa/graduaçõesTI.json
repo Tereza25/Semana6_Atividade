@@ -1,0 +1,53 @@
+[
+    {
+        "Curso": "Análise e Desenvolvimento de Sistemas",
+        "Duração": "2 a 3 anos",
+        "Salário Médio": "R$5.083"
+    },
+    {
+        "Curso": "Ciência da Computação",
+        "Duração": "4 anos",
+        "Salário Médio": "R$6.720"
+    },
+    {
+        "Curso": "Sistemas de Informação",
+        "Duração": "5 anos",
+        "Salário Médio": "R$3.613" 
+    },
+    {
+        "Curso": "Gestão de Tecnologia da Informação",
+        "Duração": "2 a 3 anos",
+        "Salário Médio": "R$4.369"
+    },
+    {
+        "Curso": "Redes de Computadores",
+        "Duração": "3 anos",
+        "Salário Médio": "R$4.728"
+    },
+    {
+        "Curso": "Engenharia da Computação",
+        "Duração": "5 anos",
+        "Salário Médio": "R$8.531"
+    },
+    {
+        "Curso": "Jogos Digitais",
+        "Duração": "4 anos",
+        "Salário Médio": "R$4.000"
+    },
+    {
+        "Curso": "Engenheiro de Software",
+        "Duração": "5 anos",
+        "Salário Médio": "R$8.531"
+    },
+    {
+        "Curso": "Ciência de Dados e Inteligência Artificial",
+        "Duração": "4 anos",
+        "Salário Médio": "R$7.350"
+    },
+    {
+        "Curso": "Marketing Digital",
+        "Duração": "2 a 3 anos",
+        "Salário Médio": "R$3.628"
+    }
+
+]

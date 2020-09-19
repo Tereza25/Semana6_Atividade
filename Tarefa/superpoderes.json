@@ -1,0 +1,53 @@
+[
+    {
+        "Nome": "Superforça",
+        "Tipo": "Poder físico",
+        "Gatilho": "Contante"
+    },
+    {        
+        "Nome": "Invisibilidade",
+        "Tipo": "Poder físico",
+        "Gatilho": "Expontâneo, Constante"
+    },
+    {
+        "Nome": "Hidrocinese",
+        "Tipo": "Poder elemental",
+        "Gatilho": "Expontâneo"
+    },
+    {
+        "Nome": "Fotocinese",
+        "Tipo": "Poder da luz",
+        "Gatilho": "Expontâneo"
+    },
+    {
+        "Nome": "Manipulação mental",
+        "Tipo": "Psíquico",
+        "Gatilho": "Expontâneo"
+    },
+    {
+        "Nome": "Manipulação do tempo",
+        "Tipo": "Poder temporal",
+        "Gatilho": "Expontâneo"
+    },
+    {
+        "Nome": "Escudo psíquico",
+        "Tipo": "Poder mental",
+        "Gatilho": "Constante"
+    },
+    {
+       "Nome": "Telepatia",
+        "Tipo": "Poder psíquico",
+        "Gatilho": "Expontâneo" 
+    },
+    {
+        "Nome": "Mimetismo de areia",
+        "Tipo": "Poder elemental",
+        "Gatilho": "Constante"
+    },
+    {
+        "Nome": "Super visão",
+        "Tipo": "Poder sensorial",
+        "Gatilho": "Constante"      
+    }
+
+]

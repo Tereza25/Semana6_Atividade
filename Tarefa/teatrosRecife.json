@@ -1,0 +1,48 @@
+[
+    {   
+        "Nome": "Teatro Ariano Suassuna",
+        "Inauguração":"1997",
+        "Capacidade": 94
+    },
+    {
+        "Nome": "Valdemar de Oliveira",
+        "Inauguração":"1971",
+        "Capacidade": 350
+    },
+    {
+        "Nome": "Teatro do Parque",
+        "Inauguração":"1915",
+        "Capacidade": 800
+    },
+    {
+        "Nome": "Teatro Hermilo Borba Filho",
+        "Inauguração":"1917",
+        "Capacidade": 150
+    },
+    {
+        "Nome": "Teatro Boa VIsta",
+        "Inauguração":"1914",
+        "Capacidade": 1100
+    },
+    {
+        "Nome": "Teatro da UFPE",
+        "Inauguração":"1996",
+        "Capacidade": 1931
+    },
+    {
+        "Nome": "Teatro Santa Izabel",
+        "Inauguração": "1850",
+        "Capacidade": 700
+    },
+    {
+        "Nome": "Teatro do Parque",
+        "Inauguração": "1915",
+        "Capacidade": 587
+    },
+    {
+        "Nome": "Teatro Guararapes ",
+        "Inauguração": "1982",
+        "Capacidade": 2400
+    }
+
+]
